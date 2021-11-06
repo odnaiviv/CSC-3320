@@ -7,4 +7,4 @@
 >* Code: checkError.sh + hello.sh
 
 >My Post-Lab Answers: Lab6_VivianDo.pdf
->* Code: foo.sh + foo.java + hello.c
+>* Code: foo.sh + foo.java + hello.c + myName.c
