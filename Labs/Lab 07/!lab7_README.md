@@ -1,4 +1,4 @@
-## Lab 6 PDF & Work
+## Lab 7 PDF & Work
 
 *In-Lab Instructions: N/A*
 *Post-Lab Instructions: Lab_7_Post Lab Assignment.pdf*
