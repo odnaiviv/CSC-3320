@@ -1,0 +1,14 @@
+  163  cd ~
+  164  ls
+  165  mkdir homeworks
+  166  ls
+  167  cd homeworks
+  168  vim homework_instructions.txt
+  169  ls
+  170  ls -l
+  171  chmod 644 homework_instructions.txt
+  172  ls -l
+  173  grep POINTS homework_instructions.txt
+  174  grep -i POINTS homework_instructions.txt
+  175  history
+[vdo10@gsuad.gsu.edu@snowball ~]$

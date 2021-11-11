@@ -1,0 +1,34 @@
+  345  pwd
+  346  ls
+  347  touch file1.txt file3.txt
+  348  touch file2.pdf file4.pdf
+  349  ls
+  350  mkdir {txtfiles,pdffiles}
+  351  ls
+  352  cp file3.txt txtfiles/file3_copy.txt
+  353  cp file2.pdf pdffiles/file2_copy.pdf
+  354  cp file4.pdf pdffiles/file4_copy.pdf
+  355  cd ~/txtfiles
+  356  ls
+  357  cd ~/pdffiles
+  358  ls
+  359  cd ~/txtfiles
+  360  sort -M file1_copy.txt
+  361  sort -M file3_copy.txt
+  362  cd
+  363  tar czvpd txtfiles.tar.gz txtfiles
+  364  tar -czvpd txtfiles.tar.gz txtfiles
+  365  ls
+  366  cd ~/txtfiles
+  367  sort -M file1_copy.txt
+  368  cd
+  369  tar -czvpf txtfiles.tar.gz txtfiles
+  370  ls -lrth | grep -i tar
+  371  ls
+  372  cd ~/pdffiles
+  373  sort -M file2_copy.pdf
+  374  cd
+  375  tar -czvpf pdffiles.tar.gz pdffiles
+  376  ls -lrth | grep -i tar
+  377  ls
+  378  history
