@@ -1,6 +1,6 @@
 ## Midterm 1 PDF & Work
 
-### Grade: 100
+### Grade: 100! :D
 
 *Midterm 1 Instructions: Midterm1_csc3320_Fall2021.pdf*
 
