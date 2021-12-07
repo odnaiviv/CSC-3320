@@ -8,3 +8,5 @@
 >* Question 3: calculator.sh
 >* Question 4: phone.sh + phonebook.txt
 >* Question 5: N/A
+
+#### Grade: 100
