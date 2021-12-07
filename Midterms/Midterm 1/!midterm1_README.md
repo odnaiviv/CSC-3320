@@ -1,5 +1,7 @@
 ## Midterm 1 PDF & Work
 
+### Grade: 100
+
 *Midterm 1 Instructions: Midterm1_csc3320_Fall2021.pdf*
 
 >My Answered Document: Midterm1_VivianDo.pdf
@@ -8,5 +10,3 @@
 >* Question 3: calculator.sh
 >* Question 4: phone.sh + phonebook.txt
 >* Question 5: N/A
-
-#### Grade: 100
