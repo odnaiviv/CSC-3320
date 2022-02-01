@@ -1,5 +1,7 @@
 ## Midterm 2 PDF & Work
 
+### Grade: 100?? I passed the class with an A so I don't really know..
+
 *Midterm 2 Instructions: Midterm2_csc3320.docx.pdf*
 
 >My Answered Document: Midterm2_VivianDo.pdf
