@@ -2,9 +2,9 @@
 
 ### Grade: 100?? I passed the class with an A so I don't really know..
 
-*Midterm 2 Instructions: Midterm2_csc3320.docx.pdf*
+*Midterm 2 Instructions: [Midterm2_csc3320.docx.pdf](https://github.com/odnaiviv/CSC3320/blob/main/Midterms/Midterm%202/Midterm2_csc3320.docx.pdf)*
 
->My Answered Document: Midterm2_VivianDo.pdf
+>My Answered Document: [Midterm2_VivianDo.pdf](https://github.com/odnaiviv/CSC3320/blob/main/Midterms/Midterm%202/Midterm2_VivianDo.pdf)
 >* Question 1: sortNumbers.c 
 >* Question 2: sortStrings.c
 >* Question 3: sortStringsDynamic.c
