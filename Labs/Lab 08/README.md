@@ -7,4 +7,4 @@
 >My In-Lab Answers: N/A
 
 >My Post-Lab Answers: [Lab8_VivianDo.pdf](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2008/Lab8_VivianDo.pdf)
->* Code: q1.c + q2.c
+>* Code: [q1.c](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2008/q1.c) | [q2.c](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2008/q2.c)
