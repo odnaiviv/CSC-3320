@@ -7,4 +7,4 @@
 >My In-Lab Answers: N/A
 
 >My Post-Lab Answers: [Lab7_VivianDo.pdf](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2007/Lab7_VivianDo.pdf)
->* Code: getPhoneNumber.c + calcPrice.c + getPhoneNumber.sh
+>* Code: [getPhoneNumber.c](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2007/getPhoneNumber.c) | [calcPrice.c](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2007/calcPrice.c) | [getPhoneNumber.sh](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2007/getPhoneNumber.sh)
