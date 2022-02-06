@@ -7,4 +7,4 @@
 >My In-Lab Answers: N/A
 
 >My Post-Lab Answers: [Lab5_P1_VivianDo.pdf](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2005/Lab5_P1_VivianDo.pdf)
->* Code: simple.sh
+>* Code: [simple.sh](https://github.com/odnaiviv/CSC3320/blob/main/Labs/Lab%2005/simple.sh)
